@@ -1,0 +1,7 @@
+This is the main part of the assignment that will have you implement many small functions in Python.
+
+We recommend reading over this part and Part 2 so that you get into the practice of writing your tests alongside the code you are developing.
+
+For this part you will be using hw1.py. There is a little bit of starter code there for a function called funky_sum. There is an example test in hw1_test.py to test funky_sum.
+
+For all of the following problems, you should add a function with the expected name to hw1.py and implement the function as described. For every problem in this homework, you should make no assumptions about the parameters unless otherwise described. For every problem, you may assume we pass parameters of the expected types described for that problem and that those parameters are not None.
